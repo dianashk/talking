@@ -4,6 +4,11 @@ Talking about open data and Mapzen tools
 
 [Slides are here](https://docs.google.com/presentation/d/1PDW4j6HbWs2b5WCumdG7NPZEdicWgwj4ctbXf21kRGM/edit?usp=sharing)
 
+Open data links:
+ * [OSM](openstreetmap.org)
+   * [TagInfo](http://taginfo.openstreetmap.org/)
+ * [OpenAddresses](openaddresses.io)
+
 Demo links:
  * [mapzen.com](mapzen.com)
  * [Mapzen Turn-by-Turn](https://mapzen.com/projects/valhalla)
